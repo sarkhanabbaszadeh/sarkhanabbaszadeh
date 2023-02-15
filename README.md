@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarkhanabbaszadeh
-- 👀 I’m interested in Wep,Game,Robotic Industry
+- 👀 I’m interested in Web,Game,Robotic Industry
 - 🌱 I’m currently learning Professional Wep Development
 - 💞️ I don't looking to collaborate yet
 - 📫 How to reach me sarkhan.abbaszadeh@gmail.com
