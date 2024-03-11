@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarkhanabbaszadeh
 - 👀 I’m interested in Web,Game,Robotic Industry
-- 🌱 I’m currently learning Professional Wep Development
+- 🌱 I’m currently learning Professional Web Development
 - 💞️ I don't looking to collaborate yet
 - 📫 How to reach me sarkhan.abbaszadeh@gmail.com
 - 
